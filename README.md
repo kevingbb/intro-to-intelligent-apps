@@ -79,8 +79,16 @@ Choose one of the following options to set up your environment: Codespaces, Devc
 * :bulb: [Guideline for writing better prompts](docs/prompt_writing_help.md)
 * :muscle: [Quick start for getting started with Azure OpenAI](docs/quick_start.md)
 
-## Additional Azure OpenAI Exercises via Jupyter Notebooks
+### labs Folder
 
-* :muscle: [Preprocessing](labs/extra/preprocessing.ipynb) - Introduction to the principles of preprocessing and token handling.
-* :muscle: [Q&A with embeddings](labs/extra/qna_with_embeddings.ipynb) - Introduction to building a better Q&A system with embeddings.
-* :muscle: [Unsupervised movie classification and recommendations](labs/extra/movie_classification.ipynb) - Introduction to building a better classification system with embeddings.
+* :muscle: [Lab #1 - Prompt Exercises](labs/01-prompts/prompts.md)
+* :muscle: [Lab #2 - Orchestrator Exercises](labs/02-orchestrators/orchestrators.md)
+* :muscle: Extra - Additional Azure OpenAI Exercises via Jupyter Notebooks
+  * :muscle: [Preprocessing](labs/extra/preprocessing.ipynb) - Introduction to the principles of preprocessing and token handling.
+  * :muscle: [Q&A with embeddings](labs/extra/qna_with_embeddings.ipynb) - Introduction to building a better Q&A system with embeddings.
+  * :muscle: [Unsupervised movie classification and recommendations](labs/extra/movie_classification.ipynb) - Introduction to building a better classification system with embeddings.
+
+### presentations Folder
+
+* :bulb: [Intro to Azure OpenAI](presentations/README.md)
+* :bulb: [Intro to Incorporating LLMs](presentations/README.md)
