@@ -396,3 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Azure Machine Learning
+Demo/.amlignore
+Demo/.amlignore.amltmp
+solutions/AzureOpenAIUtil/
+.amlignore
+.amlignore.amltmp
+.env
