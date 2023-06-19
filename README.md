@@ -12,7 +12,7 @@ This repository introduces and helps organizations get started with building Int
   * Introductions & Setting Expectations (15min)
   * Preconceptions - Use Case Ideation & Brainstorming (30min)
   * [Intro to Azure OpenAI, Prompt Engineering & Demos (60min)](presentations/README.md)
-* 🧑🏼‍💻 [Lab #1 - Hands-on with Prompt Engineering Exercises using Azure AI Studio (90min)](labs/01/prompts.md)
+* 🧑🏼‍💻 [Lab #1 - Hands-on with Prompt Engineering Exercises using Azure AI Studio (90min)](labs/01-prompts/prompts.md)
 
 ### 🌆 Afternoon (1:00 – 4:30)
 
@@ -20,7 +20,7 @@ This repository introduces and helps organizations get started with building Int
 
 * 📣 Intro (60min)
   * [Incorporating LLM into An Application & Demos (60min)](presentations/README.md)
-* 💻 [Lab #2 - Hands-on with Open AI Orchestrator Basics (90min)](labs/02/orchestrators.md)
+* 💻 [Lab #2 - Hands-on with Open AI Orchestrator Basics (90min)](labs/02-orchestrators/orchestrators.md)
 * Post Conceptions (Have your ideas and notions changed?) - Use Case Ideation & Brainstorming (60min)
 * QnA & Wrap-up (15min)
 
