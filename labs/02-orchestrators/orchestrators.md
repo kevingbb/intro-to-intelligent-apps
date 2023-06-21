@@ -14,12 +14,10 @@ In this document you will find exercises for building large language models (LLM
 
 <details>
   <summary>:white_check_mark: Sample URL</summary>
-  ```
   http://localhost:7071/api/skills/{skillName}/functions/{functionName}
-  ```
 </details>
 
-4. Invoke the "Excuses" function under the "FunSkill" skill using curl or postman. Check out the following [sample payload]() if you need a hint.
+4. Invoke the "Excuses" function under the "FunSkill" skill using curl or postman. Check out the following [sample payload](payload-excuses.json) if you need a hint.
 
 ### Add Custom Semantic Skill
 
