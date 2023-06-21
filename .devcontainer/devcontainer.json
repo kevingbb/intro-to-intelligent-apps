@@ -2,16 +2,10 @@
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.245.2/containers/dotnet
 {
 	"name": "Intelligent Apps Dev Container",
-	"build": {
-		"dockerfile": "Dockerfile",
-		"args": { 
-			// Update 'VARIANT' to pick a .NET Core version: 3.1, 6.0, 7.0
-			// Append -bullseye or -focal or -jammy to pin to an OS version.
-			"VARIANT": "7.0-jammy",
-			// [Choice] Node.js version: none, lts/*, 18, 16, 14
-			"NODE_VERSION": "lts/*"
-		}
-	},
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "devmachine",
+	"workspaceFolder": "/workspace",
+	"shutdownAction": "stopCompose",
 
 	// Configure tool-specific properties.
 	"customizations": {
@@ -27,7 +21,8 @@
 				"ms-toolsai.jupyter",
 				"ms-semantic-kernel.semantic-kernel",
                 "esbenp.prettier-vscode",
-				"GitHub.copilot"
+				"GitHub.copilot",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	},
@@ -36,10 +31,12 @@
 	// "forwardPorts": [5000, 5001],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "dapr init",
+	// "postCreateCommand": "dotnet --version",
 
 	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode",
+
+	// Additional devcontainer feature configurations
 	"features": {
 		"ghcr.io/devcontainers/features/docker-in-docker:2": {
 			"version": "latest",
