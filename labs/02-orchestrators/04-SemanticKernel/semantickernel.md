@@ -1,8 +1,10 @@
-# Orchestrator - Semantic Kernel
+# 03 - Semantic Kernel
 
-## Getting Started
+## Introduction
 
-Let's learn about the Semantic Kernel by creating a "Hello, World!" application using Azure Functions. We'll use this application to explore the basics of Semantic Kernel, see how an application is structured and build on that knowledge.
+In this lab, we're going to build on what we've seen in the previous two labs and introduce Semantic Kernel. Similar to the OpenAI Library, Semantic Kernel provides a layer on top of the OpenAI API, but it also provides an orchestration layer that allows combining different AI models, plugins to bring in information from other sources and concepts like *memories*.
+
+We'll learn about Semantic Kernel by creating a "Hello, World!" application using Azure Functions. We'll use this application to explore the basics of Semantic Kernel, see how an application is structured and then build on that knowledge in later labs.
 ### Preparation
 
 You can use either GitHub Codespaces (:exclamation:recommended:exclamation:) or you can work locally using Visual Studio Code for this lab.
