@@ -1,22 +1,24 @@
 # Indiana Jones and the Dial of Destiny
 
-**Overview:** Finding himself in a new era, approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.
+## Overview
+
+ Finding himself in a new era, approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.
+
+## Details
 
 **Release Date:** 2023-06-28
 
 **Genres:** Adventure, Action, Fantasy
 
-**Keywords:** feminism, sequel, flashback, prologue, knife fight, archaeologist, adventurer, 1960s, relic hunter
-
 **Popularity:** 765.07
 
 **Vote Average:** 6.5
 
-**Reviews:**
+**Keywords:** feminism, sequel, flashback, prologue, knife fight, archaeologist, adventurer, 1960s, relic hunter
 
----
+## Reviews
 
-**Author:** Lachlan Thiele
+**Review by** Lachlan Thiele
 
 **Rating:** 4.0
 
@@ -32,7 +34,7 @@ FADE OUT.
 
 ---
 
-**Author:** garethmb
+**Review by** garethmb
 
 **Rating:** None
 
@@ -60,9 +62,11 @@ It will be different things to different people but for me, "Indiana Jones and t
 
 ---
 
-**Author:** Brent Marchant
+**Review by** Brent Marchant
 
 **Rating:** 7.0
 
 It seems these days that it’s become all too easy to blast popular, commercial fare simply because it is popular, commercial fare. Granted, some offerings of this type genuinely deserve whatever grief they get, but others, such as the latest installment in this long-running franchise, don’t merit unfair potshots fired at them just for innately being mainstream offerings. In many ways, this is very much cut from the same cloth as its action adventure predecessors, but there are enough distinctions, new developments and lesser-known elements to keep it fresh and interesting throughout. Now, this is not to suggest that this final entry in this action adventure series is without its faults – it’s overlong, some of its action sequences could have been easily pared back (despite generally being as good as they are) and the storyline tends to sag somewhat in the middle. However, Indiana Jones has once again given us a rollicking good time with a captivating narrative, an intriguing assortment of twists and turns, and an array of colorful characters all vying for their piece of the pie (if not the entire pie itself). The film also provides fans of the franchise with deftly handled touches at achieving closure for the series, without dangling obvious or ambiguous carrots of there being more to come or any kind of impending reboot. Director James Mangold successfully puts the series to bed and tucks it in nicely while rounding off any remaining edges, something that it and its fans deserve. So, to all those cynics out there who are shamelessly bashing this release to be fashionable or hip, all I can say is “pipe down and lose the attitude already.”
+
+---
 

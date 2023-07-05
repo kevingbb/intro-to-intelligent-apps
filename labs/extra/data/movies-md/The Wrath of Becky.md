@@ -1,22 +1,24 @@
 # The Wrath of Becky
 
-**Overview:** Two years after she escaped a violent attack on her family, 16-year-old Becky attempts to rebuild her life in the care of an older woman -- a kindred spirit named Elena. However, when a violent group known as the Noble Men break into their home, attack them and take their beloved dog, Becky must return to her old ways to protect herself and her loved ones.
+## Overview
+
+ Two years after she escaped a violent attack on her family, 16-year-old Becky attempts to rebuild her life in the care of an older woman -- a kindred spirit named Elena. However, when a violent group known as the Noble Men break into their home, attack them and take their beloved dog, Becky must return to her old ways to protect herself and her loved ones.
+
+## Details
 
 **Release Date:** 2023-05-26
 
 **Genres:** Action, Horror, Thriller
 
-**Keywords:** machete, sequel, revenge, murder, gore, diner, dog, blood, terrorists
-
 **Popularity:** 825.471
 
 **Vote Average:** 6.7
 
-**Reviews:**
+**Keywords:** machete, sequel, revenge, murder, gore, diner, dog, blood, terrorists
 
----
+## Reviews
 
-**Author:** Chris Sawin
+**Review by** Chris Sawin
 
 **Rating:** 5.0
 
@@ -26,7 +28,7 @@ _The Wrath of Becky_ continues a solid trend of practical special effect kills, 
 
 ---
 
-**Author:** MovieGuys
+**Review by** MovieGuys
 
 **Rating:** 3.0
 
@@ -37,4 +39,6 @@ Unsurprisingly, Becky comes for her dog and revenge. Revenge that' hardly imagin
 Sadly, that's nowhere near enough to make up for the painfully bad script generally ghastly, characterisations and brain dead violence. 
 
 In summary, basic in most regards. I suspect it might appeal to a marginal demographic, of resentful teenage girls, with low expectations entertainment wise, but beyond that.....??
+
+---
 

@@ -1,22 +1,24 @@
 # Transformers: Rise of the Beasts
 
-**Overview:** When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.
+## Overview
+
+ When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.
+
+## Details
 
 **Release Date:** 2023-06-06
 
 **Genres:** Action, Adventure, Science Fiction
 
-**Keywords:** peru, alien, end of the world, based on cartoon, based on toy, robot, duringcreditsstinger, 1990s, brother brother relationship
-
 **Popularity:** 1420.96
 
 **Vote Average:** 7.2
 
-**Reviews:**
+**Keywords:** peru, alien, end of the world, based on cartoon, based on toy, robot, duringcreditsstinger, 1990s, brother brother relationship
 
----
+## Reviews
 
-**Author:** josezapata
+**Review by** josezapata
 
 **Rating:** None
 
@@ -26,7 +28,7 @@ Transformers took everything that worked with Bumblebee . Anthony Ramos and Domi
 
 ---
 
-**Author:** garethmb
+**Review by** garethmb
 
 **Rating:** None
 
@@ -54,7 +56,7 @@ The film also has an impressive era-specific soundtrack and a scene near the end
 
 ---
 
-**Author:** Chris Sawin
+**Review by** Chris Sawin
 
 **Rating:** 2.0
 
@@ -64,7 +66,7 @@ _Transformers: Rise of the Beasts_ is a pointless entry in the live-action _Tran
 
 ---
 
-**Author:** CinemaSerf
+**Review by** CinemaSerf
 
 **Rating:** 6.0
 
@@ -72,9 +74,11 @@ You know what - this is my favourite "Transformers" movie. Now that's not really
 
 ---
 
-**Author:** DAVID TILAN
+**Review by** DAVID TILAN
 
 **Rating:** 10.0
 
 **Just incredible**, Tstrong texthe Autobots are amazing **full of action.**
+
+---
 

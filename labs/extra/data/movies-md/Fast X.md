@@ -1,22 +1,24 @@
 # Fast X
 
-**Overview:** Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.
+## Overview
+
+ Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.
+
+## Details
 
 **Release Date:** 2023-05-17
 
 **Genres:** Action, Crime, Thriller
 
-**Keywords:** sequel, revenge, racing, family, cars
-
 **Popularity:** 3576.187
 
 **Vote Average:** 7.3
 
-**Reviews:**
+**Keywords:** sequel, revenge, racing, family, cars
 
----
+## Reviews
 
-**Author:** MSB
+**Review by** MSB
 
 **Rating:** 6.0
 
@@ -32,7 +34,7 @@ Rating: B-
 
 ---
 
-**Author:** Ritesh Mohapatra
+**Review by** Ritesh Mohapatra
 
 **Rating:** None
 
@@ -48,7 +50,7 @@ Instagram @streamgenx
 
 ---
 
-**Author:** davlaga
+**Review by** davlaga
 
 **Rating:** None
 
@@ -56,7 +58,7 @@ Great movie
 
 ---
 
-**Author:** CinemaSerf
+**Review by** CinemaSerf
 
 **Rating:** 6.0
 
@@ -64,7 +66,7 @@ Starting off with a bit of nostalgia, this high-octane adventure sees just how "
 
 ---
 
-**Author:** MovieGuys
+**Review by** MovieGuys
 
 **Rating:** 2.0
 
@@ -80,7 +82,7 @@ In summary, just dumb, that's really all needs be said.....
 
 ---
 
-**Author:** r96sk
+**Review by** r96sk
 
 **Rating:** 9.0
 
@@ -98,7 +100,7 @@ Bring on <em>'Fast XI'</em> or whatever they decide to call it. Apparently we're
 
 ---
 
-**Author:** r96sk
+**Review by** r96sk
 
 **Rating:** 9.0
 
@@ -113,4 +115,6 @@ Away from those guys, the recurrence of the likes of Charlize Theron, John Cena 
 The action continues to be absolutely bonkers and I continue to be absolutely onboard with everything and anything that is portrayed onscreen. The look of the film, the sound of the film... I dig it all to be honest. It's loud as heck, but that's exactly what I'd want from a <em>'Fast & Furious'</em> flick. A film worth the admission fee, as usual.
 
 Bring on <em>'Fast XI'</em> or whatever they decide to call it. Apparently we're still getting another one after that, which I personally hope has its own sequel, which in turn has its sequel, followed by another seque... you get my point. I wanna be 105 and sat in the cinema watching another one of these.😂
+
+---
 

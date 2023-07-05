@@ -1,22 +1,24 @@
 # Extraction 2
 
-**Overview:** Tasked with extracting a family who is at the mercy of a Georgian gangster, Tyler Rake infiltrates one of the world's deadliest prisons in order to save them. But when the extraction gets hot, and the gangster dies in the heat of battle, his equally ruthless brother tracks down Rake and his team to Vienna, in order to get revenge.
+## Overview
+
+ Tasked with extracting a family who is at the mercy of a Georgian gangster, Tyler Rake infiltrates one of the world's deadliest prisons in order to save them. But when the extraction gets hot, and the gangster dies in the heat of battle, his equally ruthless brother tracks down Rake and his team to Vienna, in order to get revenge.
+
+## Details
 
 **Release Date:** 2023-06-09
 
 **Genres:** Action, Thriller
 
-**Keywords:** mercenary, sequel, rescue mission, long take, based on graphic novel
-
 **Popularity:** 1583.214
 
 **Vote Average:** 7.6
 
-**Reviews:**
+**Keywords:** mercenary, sequel, rescue mission, long take, based on graphic novel
 
----
+## Reviews
 
-**Author:** The Movie Mob
+**Review by** The Movie Mob
 
 **Rating:** 8.0
 
@@ -26,7 +28,7 @@ Yes! YESsssss!!! This is what 80s action movies dreamt of being decades ago. Com
 
 ---
 
-**Author:** MSB
+**Review by** MSB
 
 **Rating:** 7.0
 
@@ -40,7 +42,7 @@ Rating: B
 
 ---
 
-**Author:** MovieGuys
+**Review by** MovieGuys
 
 **Rating:** 7.0
 
@@ -51,4 +53,6 @@ Aside from a little of the usual woke feminist fantasy nonsense, Extraction 2 of
 This will never be a great movie but its fun, with lots of well choreographed fight scenes, gun play and more besides. The back story is basic but serviceable and the acting from the cast is competent.    
 
 In summary, this is, for the most part, what a action flick should be, diverting, thrilling and of course, fun.
+
+---
 

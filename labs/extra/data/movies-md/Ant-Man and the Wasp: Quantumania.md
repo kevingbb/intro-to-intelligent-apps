@@ -1,22 +1,24 @@
 # Ant-Man and the Wasp: Quantumania
 
-**Overview:** Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.
+## Overview
+
+ Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.
+
+## Details
 
 **Release Date:** 2023-02-15
 
 **Genres:** Action, Adventure, Science Fiction
 
-**Keywords:** hero, ant, sequel, superhero, based on comic, family, superhero team, aftercreditsstinger, duringcreditsstinger, marvel cinematic universe (mcu)
-
 **Popularity:** 567.543
 
 **Vote Average:** 6.5
 
-**Reviews:**
+**Keywords:** hero, ant, sequel, superhero, based on comic, family, superhero team, aftercreditsstinger, duringcreditsstinger, marvel cinematic universe (mcu)
 
----
+## Reviews
 
-**Author:** rawatk
+**Review by** rawatk
 
 **Rating:** None
 
@@ -26,7 +28,7 @@ You can find the full review at https://aarcflick.blogspot.com/2022/12/ant-man-a
 
 ---
 
-**Author:** garethmb
+**Review by** garethmb
 
 **Rating:** None
 
@@ -93,7 +95,7 @@ another winner for Marvel.
 
 ---
 
-**Author:** Nathan
+**Review by** Nathan
 
 **Rating:** 5.0
 
@@ -114,7 +116,7 @@ Verdict: Average
 
 ---
 
-**Author:** The Movie Mob
+**Review by** The Movie Mob
 
 **Rating:** 6.0
 
@@ -124,7 +126,7 @@ My feelings are so mixed on Ant-Man and the Wasp: Quantumania. The first two Ant
 
 ---
 
-**Author:** MSB
+**Review by** MSB
 
 **Rating:** 5.0
 
@@ -136,7 +138,7 @@ Rating: C
 
 ---
 
-**Author:** CinemaSerf
+**Review by** CinemaSerf
 
 **Rating:** 6.0
 
@@ -144,7 +146,7 @@ Rating: C
 
 ---
 
-**Author:** r96sk
+**Review by** r96sk
 
 **Rating:** 9.0
 
@@ -160,7 +162,7 @@ Looking at my personal MCU ranking, this goes in at no. 8 - I didn't anticipate 
 
 ---
 
-**Author:** Pcorn'n'Spectacle
+**Review by** Pcorn'n'Spectacle
 
 **Rating:** 1.0
 
@@ -168,7 +170,7 @@ worst movie. Even that much money - too much btw - for special effects cant hide
 
 ---
 
-**Author:** Louisa Moore - Screen Zealots
+**Review by** Louisa Moore - Screen Zealots
 
 **Rating:** 3.0
 
@@ -196,7 +198,7 @@ Another major problem with the film is that it can only chug along on Rudd’s l
 
 ---
 
-**Author:** Peter McGinn
+**Review by** Peter McGinn
 
 **Rating:** 6.0
 
@@ -204,9 +206,11 @@ Okay, there are a plethora of reviews here bu Marvelettes and mpre, so I will on
 
 ---
 
-**Author:** Andre Gonzales
+**Review by** Andre Gonzales
 
 **Rating:** 8.0
 
 Honestly this is easily my favorite out of the series. Still funny as normal but there's a lot more action and cool looking stuff in this movie. Really good movie.
+
+---
 

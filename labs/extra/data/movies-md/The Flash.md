@@ -1,22 +1,24 @@
 # The Flash
 
-**Overview:** When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?
+## Overview
+
+ When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?
+
+## Details
 
 **Release Date:** 2023-06-13
 
 **Genres:** Science Fiction, Action, Adventure
 
-**Keywords:** secret identity, hero, superhero, based on comic, superhuman, super power, aftercreditsstinger, butterfly effect, dc extended universe (dceu), superhuman abilities, loss of mother
-
 **Popularity:** 820.237
 
 **Vote Average:** 6.7
 
-**Reviews:**
+**Keywords:** secret identity, hero, superhero, based on comic, superhuman, super power, aftercreditsstinger, butterfly effect, dc extended universe (dceu), superhuman abilities, loss of mother
 
----
+## Reviews
 
-**Author:** The Movie Mob
+**Review by** The Movie Mob
 
 **Rating:** 8.0
 
@@ -26,7 +28,7 @@ The Flash reaches a high point on the roller coaster that is the inconsistent an
 
 ---
 
-**Author:** Chris Sawin
+**Review by** Chris Sawin
 
 **Rating:** 3.0
 
@@ -38,7 +40,7 @@ Ben Affleck and Michael Keaton look like they’re having fun, but Ezra Miller i
 
 ---
 
-**Author:** MSB
+**Review by** MSB
 
 **Rating:** 7.0
 
@@ -54,9 +56,11 @@ Rating: B+
 
 ---
 
-**Author:** CinemaSerf
+**Review by** CinemaSerf
 
 **Rating:** 7.0
 
 Now I know that you are not supposed to put baby in a corner, but is a microwave ok? (Mind you, I've been on enough flights lately to find that latter idea has definite merit!). Anyway, this takes a while to get going as we are introduced to "Barry" (Ezra Miller) and taken through the family scenario that led his mother to be slaughtered in a burglary and to his father being charged with the murder. Desperate to save his dad from the chair and and to reincarnate mom, he decides to use his great speed to take on time itself! Despite being warned against this potentially reckless action by "Batman" (the most fleeting of appearances from Ben Affleck) he goes for it; gets knocked out of the timeline and finds himself face to face with - himself (only much better looking with wavy hair). This isn't the only thing that's changing on the old space-time continuum and shortly after, "General Zod" (Michael Shannon) arrives bent on avenging the destruction of his home world of "Krypton" on the people of Earth. "Barry" has to think on his nimble feet, and try to assemble what he can of the "Justice League" to combat this threat. Turns out "Bruce Wayne" (now Michael Keaton) has rather let himself go and "Superman" is being held in an impenetrable metal scrotum in Siberia. Time to galvanise and get a-rescuing before his future, all of their futures, are lost. Can they all save the world? I liked this film. It's got loads of action, plenty of pith in a script that is at the more adult (without loads of expletives) end of the spectrum and Miller has the "P" word. Personality. They are clearly enjoying this, and there is loads of charisma emanating from both performances from a star who bucks the normal trend of being handsome but rather wooden. Miller is the former, certainly, but they bring life to the role. It's fun, and abetted by a story that has some weight and plenty of pace to it, we are taken on a series of lightly comedic adventures that make 2 hours and 20 minutes quite literally whizz by. Sasha Calle gives us some diversion from the Ezra show as Superman's cousin - no slouch in a fight either, and Keaton does fine as he rehabilitates his disillusioned "Batman" character using his gadgets and gizmos to great effect. It's so much better than I was expecting and I have to say that I enjoyed the quirkiness of Miller's interpretation of "Barry" - nowhere near as sterile and simpering as Grant Gustin's pure as the driven snow portrayal. The multiverse can keep on inventing and reinventing scenarios and the visual effects can work wonders making just about anything possible - but without strong and personable characters then I am sure I will just bore of the relentless repetition of these stories. Miller is different. Sure, we all know of their much publicised flaws, but I hope the studio look past that and commit to a sequel that allows this actor to continue to do what they do well here - and that's to entertain us. Needs a big screen, it will look very ordinary on the telly.
+
+---
 

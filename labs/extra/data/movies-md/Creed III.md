@@ -1,22 +1,24 @@
 # Creed III
 
-**Overview:** After dominating the boxing world, Adonis Creed has been thriving in both his career and family life. When a childhood friend and former boxing prodigy, Damian Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damian — a fighter who has nothing to lose.
+## Overview
+
+ After dominating the boxing world, Adonis Creed has been thriving in both his career and family life. When a childhood friend and former boxing prodigy, Damian Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damian — a fighter who has nothing to lose.
+
+## Details
 
 **Release Date:** 2023-03-01
 
 **Genres:** Drama, Action
 
-**Keywords:** philadelphia, pennsylvania, husband wife relationship, deaf, sports, sequel, orphan, former best friend, ex-con, childhood friends, juvenile detention center, boxing, prodigy
-
 **Popularity:** 460.805
 
 **Vote Average:** 7.2
 
-**Reviews:**
+**Keywords:** philadelphia, pennsylvania, husband wife relationship, deaf, sports, sequel, orphan, former best friend, ex-con, childhood friends, juvenile detention center, boxing, prodigy
 
----
+## Reviews
 
-**Author:** Nathan
+**Review by** Nathan
 
 **Rating:** 9.0
 
@@ -35,7 +37,7 @@ Verdict: Excellent
 
 ---
 
-**Author:** garethmb
+**Review by** garethmb
 
 **Rating:** None
 
@@ -90,7 +92,7 @@ that there is plenty of life in the franchise.
 
 ---
 
-**Author:** CinemaSerf
+**Review by** CinemaSerf
 
 **Rating:** 6.0
 
@@ -98,7 +100,7 @@ This reminded me quite a lot of "Rocky IV" (1985) only instead of a Russian auto
 
 ---
 
-**Author:** Louisa Moore - Screen Zealots
+**Review by** Louisa Moore - Screen Zealots
 
 **Rating:** 7.0
 
@@ -118,9 +120,11 @@ By: Louisa Moore / SCREEN ZEALOTS**
 
 ---
 
-**Author:** Andre Gonzales
+**Review by** Andre Gonzales
 
 **Rating:** 6.0
 
 Alright movie but it got away from what made this movie great. No Stallone in this one either. Now he's retiring already. Kind of dumb. I want to see him box more maybe more fights. It's always just one fight. Idk he's to young to retire and I don't want to watch him become a trainer now just like rocky.
+
+---
 

@@ -1,22 +1,24 @@
 # Shazam! Fury of the Gods
 
-**Overview:** Billy Batson and his foster siblings, who transform into superheroes by saying "Shazam!", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.
+## Overview
+
+ Billy Batson and his foster siblings, who transform into superheroes by saying "Shazam!", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.
+
+## Details
 
 **Release Date:** 2023-03-15
 
 **Genres:** Comedy, Action, Fantasy
 
-**Keywords:** superhero, end of the world, super power, aftercreditsstinger, duringcreditsstinger, dc extended universe (dceu), teenager
-
 **Popularity:** 466.437
 
 **Vote Average:** 6.7
 
-**Reviews:**
+**Keywords:** superhero, end of the world, super power, aftercreditsstinger, duringcreditsstinger, dc extended universe (dceu), teenager
 
----
+## Reviews
 
-**Author:** The Movie Mob
+**Review by** The Movie Mob
 
 **Rating:** 7.0
 
@@ -26,7 +28,7 @@ Shazam! Fury of the Gods matches the fun of the first film while, in typical seq
 
 ---
 
-**Author:** MSB
+**Review by** MSB
 
 **Rating:** 5.0
 
@@ -38,7 +40,7 @@ Rating: C
 
 ---
 
-**Author:** CinemaSerf
+**Review by** CinemaSerf
 
 **Rating:** 7.0
 
@@ -46,7 +48,7 @@ Ok, so I know I shouldn't have - but I did enjoy this. "Billy" (Zachary Levi/Ash
 
 ---
 
-**Author:** deadrody
+**Review by** deadrody
 
 **Rating:** 4.0
 
@@ -54,7 +56,7 @@ The movie is decent enough, although formulaic and predictable.  But the 12 year
 
 ---
 
-**Author:** Nathan
+**Review by** Nathan
 
 **Rating:** 6.0
 
@@ -75,9 +77,11 @@ Verdict: Decent
 
 ---
 
-**Author:** JPV852
+**Review by** JPV852
 
 **Rating:** 6.0
 
 Passably entertaining sequel that lacks the charm of the original to go along with the over-acting from Lucy Liu as the primary antagonist; really miss the great menace Mark Strong brought to his role. Still Zachary Levi was still great as Shazam and there were some fun scenes between Djimon Hounsou and Jack Dylan Grazer. Not great but still decent enough especially for families. **3.25/5**
+
+---
 

@@ -1,22 +1,24 @@
 # Spider-Man: Across the Spider-Verse
 
-**Overview:** After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.
+## Overview
+
+ After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.
+
+## Details
 
 **Release Date:** 2023-05-31
 
 **Genres:** Action, Adventure, Animation, Science Fiction
 
-**Keywords:** sacrifice, villain, comic book, sequel, superhero, based on comic, alternate dimension, alternate version, super power, brooklyn, new york city, superhero team, spider bite, super villain, cliffhanger, teen superhero, alternate universe, female superhero, cartoon spider
-
 **Popularity:** 1586.317
 
 **Vote Average:** 8.6
 
-**Reviews:**
+**Keywords:** sacrifice, villain, comic book, sequel, superhero, based on comic, alternate dimension, alternate version, super power, brooklyn, new york city, superhero team, spider bite, super villain, cliffhanger, teen superhero, alternate universe, female superhero, cartoon spider
 
----
+## Reviews
 
-**Author:** garethmb
+**Review by** garethmb
 
 **Rating:** None
 
@@ -42,7 +44,7 @@ I first saw a rough cut of a scene at Cinemacon in 2022 and it was amazing seein
 
 ---
 
-**Author:** CinemaSerf
+**Review by** CinemaSerf
 
 **Rating:** 6.0
 
@@ -50,7 +52,7 @@ Sad night tonight. After 80-odd years, this was the last film to show in my loca
 
 ---
 
-**Author:** MSB
+**Review by** MSB
 
 **Rating:** 8.0
 
@@ -69,7 +71,7 @@ Rating: A-
 
 ---
 
-**Author:** Chris Sawin
+**Review by** Chris Sawin
 
 **Rating:** 7.0
 
@@ -83,7 +85,7 @@ But with the film sitting at 162 minutes and a sequel on the way in less than a 
 
 ---
 
-**Author:** GenerationofSwine
+**Review by** GenerationofSwine
 
 **Rating:** 10.0
 
@@ -100,4 +102,6 @@ It also gave Spidey 2099 a sort of bad spin despite being the most beloved of th
 And I am still very upset over how Peter is portrayed, but they are slowly redeeming his character.
 
 Over-all though, it's not bad.  It's better than just about all of the current Super-Hero movies and, honestly, it's probably the only cape franchise that people are still interested in... because it isn't totally political BS.
+
+---
 

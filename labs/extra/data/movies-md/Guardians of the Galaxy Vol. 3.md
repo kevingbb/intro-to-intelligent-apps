@@ -1,22 +1,24 @@
 # Guardians of the Galaxy Vol. 3
 
-**Overview:** Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.
+## Overview
+
+ Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.
+
+## Details
 
 **Release Date:** 2023-05-03
 
 **Genres:** Action, Science Fiction, Adventure
 
-**Keywords:** hero, sequel, superhero, based on comic, mad scientist, superhero team, space opera, raccoon, aftercreditsstinger, duringcreditsstinger, marvel cinematic universe (mcu), cosmic, outer space, chosen family
-
 **Popularity:** 876.042
 
 **Vote Average:** 8.1
 
-**Reviews:**
+**Keywords:** hero, sequel, superhero, based on comic, mad scientist, superhero team, space opera, raccoon, aftercreditsstinger, duringcreditsstinger, marvel cinematic universe (mcu), cosmic, outer space, chosen family
 
----
+## Reviews
 
-**Author:** The Movie Mob
+**Review by** The Movie Mob
 
 **Rating:** 9.0
 
@@ -26,7 +28,7 @@ Our faith in the Marvel Cinematic Universe waned throughout Phase 4 with films t
 
 ---
 
-**Author:** Ritesh Mohapatra
+**Review by** Ritesh Mohapatra
 
 **Rating:** 9.0
 
@@ -36,7 +38,7 @@ GOTG Vol 3 is a fantastic, emotionally immersive product from Marvel which not o
 
 ---
 
-**Author:** CinemaSerf
+**Review by** CinemaSerf
 
 **Rating:** 6.0
 
@@ -44,7 +46,7 @@ What a disappointment! The first one was great fun, the second almost as good , 
 
 ---
 
-**Author:** MSB
+**Review by** MSB
 
 **Rating:** 8.0
 
@@ -53,4 +55,6 @@ FULL SPOILER-FREE REVIEW @ https://www.firstshowing.net/2023/review-guardians-of
 "Guardians of the Galaxy Vol. 3 is an emotionally powerful, tear-inducing "farewell" to James Gunn and his Guardians. Rocket's bittersweet storyline is the soul, heart, and engine running the best MCU film since Spider-Man: No Way Home. It's visually stunning, with exceptional VFX work. The score and soundtrack couldn't be more perfectly matched. Superb performances from the compelling protagonists and even the fun cameos. A better comedy-drama balance than its predecessor, while still offering tons of entertaining sequences. A few minor issues hold it back from standing out as "one of the greats", but it was hard to deliver a more satisfying conclusion to this much-beloved trilogy. And also – a final warning to all animal lovers who may find the cruelty displayed on the screen too much for them to enjoy the movie."
 
 Rating: A-
+
+---
 

@@ -1,22 +1,24 @@
 # Guy Ritchie's The Covenant
 
-**Overview:** During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.
+## Overview
+
+ During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.
+
+## Details
 
 **Release Date:** 2023-04-19
 
 **Genres:** War, Action, Thriller
 
-**Keywords:** ambush, interpreter, afghanistan, afghanistan war (2001- ), rescue, war
-
 **Popularity:** 606.043
 
 **Vote Average:** 7.8
 
-**Reviews:**
+**Keywords:** ambush, interpreter, afghanistan, afghanistan war (2001- ), rescue, war
 
----
+## Reviews
 
-**Author:** Louisa Moore - Screen Zealots
+**Review by** Louisa Moore - Screen Zealots
 
 **Rating:** 8.0
 
@@ -46,7 +48,7 @@ But here’s where it gets interesting: the film is also highly critical of the 
 
 ---
 
-**Author:** Nathan
+**Review by** Nathan
 
 **Rating:** 8.0
 
@@ -61,7 +63,7 @@ Verdict: Great
 
 ---
 
-**Author:** Ritesh Mohapatra
+**Review by** Ritesh Mohapatra
 
 **Rating:** None
 
@@ -78,7 +80,7 @@ Instagram @streamgenx
 
 ---
 
-**Author:** CinemaSerf
+**Review by** CinemaSerf
 
 **Rating:** 6.0
 
@@ -86,7 +88,7 @@ Seems to be a growing trend nowadays to lead with the credentials of the directo
 
 ---
 
-**Author:** MovieGuys
+**Review by** MovieGuys
 
 **Rating:** 6.0
 
@@ -99,4 +101,6 @@ I guess the obvious elephant in the living room, is should the US have invaded i
 The film itself is well made, well acted and directed. Its story does resonate in a humanistic context. The action is well developed too if not entirely convincing. I did a wry smile at how the so called "bad guys", as per usual, seem to be appalling shots. Even when well armed and in large numbers, at close range.
 
 Inn summary, well acted, directed, a heartfelt story and lots of mostly engaging action. That said, the historical reality is, the US were invaders in Afghanistan. So perhaps the underlying take away from this, is the need for an end to wasteful wars, that should not be fought.
+
+---
 

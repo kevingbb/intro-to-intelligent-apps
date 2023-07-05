@@ -1,22 +1,24 @@
 # John Wick: Chapter 4
 
-**Overview:** With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.
+## Overview
+
+ With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.
+
+## Details
 
 **Release Date:** 2023-03-22
 
 **Genres:** Action, Thriller, Crime
 
-**Keywords:** new york city, martial arts, hitman, sequel, organized crime, osaka, japan, aftercreditsstinger, hunted, professional assassin, neo-noir, berlin
-
 **Popularity:** 1623.296
 
 **Vote Average:** 7.9
 
-**Reviews:**
+**Keywords:** new york city, martial arts, hitman, sequel, organized crime, osaka, japan, aftercreditsstinger, hunted, professional assassin, neo-noir, berlin
 
----
+## Reviews
 
-**Author:** thealanfrench
+**Review by** thealanfrench
 
 **Rating:** None
 
@@ -27,7 +29,7 @@ John Wick: Chapter 4 might be a little long, but when it is fun, there are few f
 
 ---
 
-**Author:** romang
+**Review by** romang
 
 **Rating:** 4.0
 
@@ -35,7 +37,7 @@ Good movie!
 
 ---
 
-**Author:** The Movie Mob
+**Review by** The Movie Mob
 
 **Rating:** 9.0
 
@@ -45,7 +47,7 @@ John Wick: Chapter 4 is an overwhelming feast of action brilliance! For the enti
 
 ---
 
-**Author:** CinemaSerf
+**Review by** CinemaSerf
 
 **Rating:** 6.0
 
@@ -53,7 +55,7 @@ Now this is an whole lot better than "John Wick - Paracetamol" (2019) but it is 
 
 ---
 
-**Author:** MSB
+**Review by** MSB
 
 **Rating:** 8.0
 
@@ -65,7 +67,7 @@ Rating: A-
 
 ---
 
-**Author:** EthicalAndroid
+**Review by** EthicalAndroid
 
 **Rating:** 10.0
 
@@ -85,7 +87,7 @@ Overall: This movie is definitely worth watching. It might be the best movie of 
 
 ---
 
-**Author:** GenerationofSwine
+**Review by** GenerationofSwine
 
 **Rating:** 10.0
 
@@ -99,7 +101,7 @@ Its wall to wall action, with only about 3% dedicated to plot and the only reall
 
 ---
 
-**Author:** Louisa Moore - Screen Zealots
+**Review by** Louisa Moore - Screen Zealots
 
 **Rating:** 8.0
 
@@ -121,7 +123,7 @@ Despite all of the things that are done right, the film’s excessive runtime ma
 
 ---
 
-**Author:** Chris Sawin
+**Review by** Chris Sawin
 
 **Rating:** 8.0
 
@@ -131,7 +133,7 @@ _John Wick: Chapter 4_ is explosive, nunchuck-bashing, bone-crunching cinematic 
 
 ---
 
-**Author:** Nathan
+**Review by** Nathan
 
 **Rating:** 9.0
 
@@ -150,7 +152,7 @@ Verdict: Excellent
 
 ---
 
-**Author:** MovieGuys
+**Review by** MovieGuys
 
 **Rating:** 7.0
 
@@ -168,7 +170,7 @@ In summary, by no means a poor film but not quite as remarkable, in my estimatio
 
 ---
 
-**Author:** tmdb42690476
+**Review by** tmdb42690476
 
 **Rating:** 1.0
 
@@ -187,7 +189,7 @@ I don't, because it is not his charisma which saves the movie but the never-endi
 
 ---
 
-**Author:** Sarthak Bharad
+**Review by** Sarthak Bharad
 
 **Rating:** 10.0
 
@@ -213,7 +215,7 @@ Go watch this film, you will not be disappointed.
 
 ---
 
-**Author:** Rob
+**Review by** Rob
 
 **Rating:** 7.0
 
@@ -221,9 +223,11 @@ Far better than Chapter 3, but then it really couldn't be any worse, but still a
 
 ---
 
-**Author:** JPV852
+**Review by** JPV852
 
 **Rating:** 8.0
 
 Solid entry in the franchise with some great fight choreography which is to be expected at this point and while the story is thin and does clock in at 169 minutes, still found it entertaining and a fine conclusion. **4.0/5**
+
+---
 
