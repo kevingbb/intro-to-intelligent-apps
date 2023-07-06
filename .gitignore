@@ -404,3 +404,4 @@ solutions/AzureOpenAIUtil/
 .amlignore
 .amlignore.amltmp
 .env
+**/.DS_Store
