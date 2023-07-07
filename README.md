@@ -4,25 +4,33 @@ This repository introduces and helps organizations get started with building Int
 
 ## Workshop Agenda
 
-### 🌅 Morning (9:00 – 12:00)
+### 🌅 Morning (9:00 – 12:15)
 
 > *Focus: Introduction, First Steps & Prompt Engineering*
 
-* 📣 Intro (105min)
-  * Introductions & Setting Expectations (15min)
-  * Preconceptions - Use Case Ideation & Brainstorming (30min)
-  * [Intro to Azure OpenAI, Prompt Engineering & Demos (60min)](presentations/README.md)
-* 🧑🏼‍💻 [Lab #1 - Hands-on with Prompt Engineering Exercises using Azure AI Studio (90min)](labs/01-prompts/prompts.md)
+* 📣 Intro (30min)
+  * Introductions & Setting Expectations
+  * Use Case Ideation & Brainstorming
+* 📣 [Intro to Azure OpenAI, Prompt Engineering & Demos (105min)](presentations/README.md)
+  * Azure OpenAI Service
+  * Demo(s)
+  * Break
+  * 🧑🏼‍💻 [Lab #1 - Hands-on with Prompt Engineering Exercises](labs/01-prompts/prompts.md)
+* 📣 [Intro to AI Orchestration (60min)](presentations/README.md)
+  * AI Orchestration
+  * Demo(s)
 
-### 🌆 Afternoon (1:00 – 4:30)
+### 🌆 Afternoon (1:15 – 4:30)
 
 > *Focus: Building Intelligent Apps & Incorporating LLMs*
 
-* 📣 Intro (60min)
-  * [Incorporating LLM into An Application & Demos (60min)](presentations/README.md)
-* 💻 [Lab #2 - Hands-on with Open AI Orchestrator Basics (90min)](labs/02-orchestrators/orchestrators.md)
-* Post Conceptions (Have your ideas and notions changed?) - Use Case Ideation & Brainstorming (60min)
-* QnA & Wrap-up (15min)
+* 📣 [Intro to AI Orchestration Continued (135min)](presentations/README.md)
+  * 💻 [Lab #2 - Hands-on with AI Orchestration Exercises](labs/02-orchestrators/README.md)
+  * 💻 [Lab #3 - Hands-on with Tokens, Embeddings & Vectors Exercises](labs/03-tbd/README.md)
+  * Break
+* Wrapping-up (60min)
+  * Use Case Validation
+  * QnA & Closing Remarks
 
 -------------------
 
@@ -69,26 +77,3 @@ Choose one of the following options to set up your environment: Codespaces, Devc
 * Select `Reopen in Container`
 * Wait for the container to be built and started
 * Create and edit `.env` file in the base folder including Azure OpenAI Service endpoint and key before starting any notebooks
-
--------------------
-
-## Content of the repository
-
-### docs Folder
-
-* :bulb: [Guideline for writing better prompts](docs/prompt_writing_help.md)
-* :muscle: [Quick start for getting started with Azure OpenAI](docs/quick_start.md)
-
-### labs Folder
-
-* :muscle: [Lab #1 - Prompt Exercises](labs/01-prompts/prompts.md)
-* :muscle: [Lab #2 - Orchestrator Exercises](labs/02-orchestrators/orchestrators.md)
-* :muscle: Extra - Additional Azure OpenAI Exercises via Jupyter Notebooks
-  * :muscle: [Preprocessing](labs/extra/preprocessing.ipynb) - Introduction to the principles of preprocessing and token handling.
-  * :muscle: [Q&A with embeddings](labs/extra/qna_with_embeddings.ipynb) - Introduction to building a better Q&A system with embeddings.
-  * :muscle: [Unsupervised movie classification and recommendations](labs/extra/movie_classification.ipynb) - Introduction to building a better classification system with embeddings.
-
-### presentations Folder
-
-* :bulb: [Intro to Azure OpenAI](presentations/README.md)
-* :bulb: [Intro to Incorporating LLMs](presentations/README.md)
