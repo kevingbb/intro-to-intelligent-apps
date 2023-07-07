@@ -405,3 +405,6 @@ solutions/AzureOpenAIUtil/
 .amlignore.amltmp
 .env
 **/.DS_Store
+
+# Qdrant Lock File
+.lock
