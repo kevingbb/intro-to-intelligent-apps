@@ -10,11 +10,9 @@
 
 **Genres:** Action, War, Thriller
 
-**Popularity:** 395.414
+**Popularity:** 386.559
 
 **Vote Average:** 5.8
 
 **Keywords:** 
-
-## Reviews
 

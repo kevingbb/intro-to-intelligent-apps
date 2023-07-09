@@ -405,3 +405,4 @@ solutions/AzureOpenAIUtil/
 .amlignore.amltmp
 .env
 **/.DS_Store
+.chroma/

@@ -10,11 +10,9 @@
 
 **Genres:** Fantasy, Action, Adventure
 
-**Popularity:** 2396.968
+**Popularity:** 3355.755
 
 **Vote Average:** 6.5
 
 **Keywords:** superhero, based on manga, live action anime
-
-## Reviews
 

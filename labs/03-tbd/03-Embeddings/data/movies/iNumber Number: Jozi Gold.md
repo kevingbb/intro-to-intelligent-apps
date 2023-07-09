@@ -10,11 +10,9 @@
 
 **Genres:** Crime, Action, Thriller
 
-**Popularity:** 751.788
+**Popularity:** 719.085
 
 **Vote Average:** 6.3
 
 **Keywords:** 
-
-## Reviews
 
