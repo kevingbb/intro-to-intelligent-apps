@@ -14,5 +14,5 @@
 
 **Vote Average:** 6.5
 
-**Keywords:** hero, ant, sequel, superhero, based on comic, family, superhero team, aftercreditsstinger, duringcreditsstinger, marvel cinematic universe (mcu)
+**Keywords:** hero, ant, sequel, superhero, based on comic, family, superhero team, aftercreditsstinger, duringcreditsstinger
 
