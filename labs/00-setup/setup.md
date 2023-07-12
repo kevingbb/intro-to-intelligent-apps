@@ -65,7 +65,7 @@ OPENAI_API_BASE = "https://my-openaiservice.openai.azure.com/"
 The `OPENAI_API_VERSION` is used for the Azure OpenAI API to determine which version of the API to use. The value below should be fine, but you can view available versions of the API at the following link: https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference#rest-api-versioning
 
 ```
-OPENAI_API_VERSION = "2023-06-01-preview"
+OPENAI_API_VERSION = "2023-03-15-preview"
 ```
 
 The next sections all relate to the models you have deployed in the Azure OpenAI service.
