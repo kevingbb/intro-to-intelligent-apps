@@ -1,4 +1,4 @@
-# 02 - Orchestrators
+# 02 - Integrating AI into Applications
 
 In this folder you will find exercises for integrating large language models (LLMs) into applications. We introduce the OpenAI API's, the OpenAI Libraries and the LangChain and Semantic Kernel *orchestrators*.
 
